@@ -1,10 +1,10 @@
 # Trabajo Final - Complejidad Algorítmica
 
-## Sección: CC41
+Sección: CC41 
 
-## Profesor: Luis Martin Canaval Sanchez
+Profesor: Luis Martin Canaval Sanchez
 
-## Integrantes:
+Integrantes:
 
 | Nombres y Apellidos          | Código de estudiante |
 | :---                         |                 ---: |
