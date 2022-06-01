@@ -6,8 +6,8 @@ Profesor: Luis Martin Canaval Sanchez
 
 Integrantes:
 
-| Nombres y Apellidos         | Código de Estudiante  |
-|:---		      	      |	 		  ---:|
-|Juan Alejandro Benites Díaz  |	 	    U202010449|
-|Ryan Robert Sweden Silva     |	 	    U202011397|
-|Franco Emmanuel Vasquez Poma |		    U201920339|
+| Nombres y Apellidos         | Nombre de Usuario | Código de Estudiante  |
+|:---		      	              | :----:            |	             		  ---:|
+|Juan Alejandro Benites Díaz  | JBenites10 (DumbarXTS) |	 	          U202010449|
+|Ryan Robert Sweden Silva     | RyanSweden03 |	 	          U202011397|
+|Franco Emmanuel Vasquez Poma | FrancoVasquez |		           U201920339|
