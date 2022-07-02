@@ -1,8 +1,4 @@
-
-![](https://lh6.googleusercontent.com/k5W_ASQmsUWstuplMVWFIf-OOSgCmHk8nOyVO4fKajIOQxHKF0IWlGd1u0cCIsDnxSiyko1F8c9PjhQ0DofxNID3KamS-IvOEf-v13cGpBoBrnaXo0D-fmuc_U9bALRPObnOC_pZkvKendzalQ)  
-  
-
-
+﻿
 # TRABAJO COMPLEJIDAD ALGORÍTMICA
 
  
@@ -35,10 +31,15 @@
     
 [5.  Explicación de cómo se elaboró el grafo, qué representan las aristas y los vértices.](#idx5)
 
+[6.  Como se continuó el trabajo.](#idx6)
+
+[7.  Conclusiones.](#idx6)
+
+[8.  Bibliografía.](#idx6)
 
   <div id='idx1' />  
   
-# 1. Resumen ejecutivo
+## 1. Resumen ejecutivo
   <div id='idx1.1' />
 
 ### 1.1. Problema:
@@ -87,3 +88,19 @@ El grafo final se realizó mediante la lectura de un archivo de texto donde se e
 
 
 ![](https://lh3.googleusercontent.com/s0RxibSen3JFakjkhqb_eqzfN9y3HQjKdjkZ5DPNVpOwBnQcDCQ4ucOeOmeG8ydbe4-_L2kDxY_zIU53eGunhlmc9gr3-S0FepLVX7SceTeyq5ZBi3ir2nIGiq2xXjf-EyFIoaEwlAcKYSt9Mw)
+
+## 6.   Como se continuó el trabajo
+Como conclusión tenemos que el realizar proyecto nos ha ayudado a poder entender mejor los algoritmos aprendidos en el curso , como lo es el de Dijkstra y Ford-Fulkerson, para poder finalmente implementarlos en nuestro código, además, pudimos aprender a hacer una interfaz sobre nuestro código de Python, algo que eleva la interactividad del proyecto.
+**![](https://lh6.googleusercontent.com/zI46MnQi-gEOk6pJdSUmrxawG2wNmBE26HmGZC6wHY5bEx18hgRTDtUiqkYGaeaR_six8mXPe4f1a0cOuaI4pgbfLzvc3XLrQUMrQE_lnhLfabTFwUBuCh_iYBSuOO2kmd-65KqBvPX2ev_XeY8)**
+Como conclusión tenemos que el realizar proyecto nos ha ayudado a poder entender mejor los algoritmos aprendidos en el curso , como lo es el de Dijkstra y Ford-Fulkerson, para poder finalmente implementarlos en nuestro código, además, pudimos aprender a hacer una interfaz sobre nuestro código de Python, algo que eleva la interactividad del proyecto.
+
+## 7. Conclusiones
+
+Como conclusión tenemos que el realizar proyecto nos ha ayudado a poder entender mejor los algoritmos aprendidos en el curso , como lo es el de Dijkstra y Ford-Fulkerson, para poder finalmente implementarlos en nuestro código, además, pudimos aprender a hacer una interfaz sobre nuestro código de Python, algo que eleva la interactividad del proyecto.
+
+## 8. Bibliografía
+Python Program for Dijkstra’s shortest path algorithm (2022), Geeksforgeeks, [https://www.geeksforgeeks.org/python-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/](https://www.geeksforgeeks.org/python-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/)
+
+  
+
+Ford-Fulkerson Algorithm for Maximum Flow Problem(2022), Geeksforgeeks, [https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/](https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/)
